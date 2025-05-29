@@ -1,2 +1,1 @@
-# my-first-project
-learning
+# stupid
